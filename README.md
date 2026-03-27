@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👤 Seu Nome
 
-<!--
-**El0wki/El0wki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor(a) em formação | Engenharia da Computação**  
+📍 Vitória da Conquista, Bahia
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/El0wki)
+[![Email](https://img.shields.io/badge/contato-seuemail@email.com-red)](mailto:rafaelowki@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Sobre mim
+
+Estou em transição / início de carreira na área de programação.
+Tenho estudado por conta própria e desenvolvido projetos práticos para
+consolidar meu aprendizado. Busco minha primeira oportunidade na área.
+
+## 🛠️ Habilidades
+
+**Linguagens:** Typescript/Javascript · HTML · CSS · Node
+**Frameworks / Libs:** Next.js  · React · Zustand · Prisma · Zod
+**Banco de dados:** MongoDB · ...  
+**Ferramentas:** Git · GitHub · VS Code   
+
+---
+## 🎓 Formação
+
+| Curso | Instituição | Período |
+|---|---|---|
+| Bacharelado em Engenharia da Computação | FAINOR | 2022 – 2027 |
+
+## 🌐 Idiomas
+
+| Idioma | Nível |
+|---|---|
+| Português | Nativo |
+| Inglês |  Avançado |
