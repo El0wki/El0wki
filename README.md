@@ -1,5 +1,3 @@
-# Olá, eu sou o Rafael Almeida! 👋
-
 **Engenheiro da Computação | Full Stack Developer**
 
 Minha abordagem no desenvolvimento é guiada pela **responsabilidade e manutenibilidade**. Entendo que softwares não são escritos apenas uma vez; por isso, priorizo escolhas técnicas que facilitem a leitura, a evolução e a manutenção do código a longo prazo, garantindo sistemas previsíveis e consistentes.
